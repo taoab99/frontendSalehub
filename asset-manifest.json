@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/frontendSalehub/static/css/main.05c7fc46.chunk.css",
+    "main.js": "/frontendSalehub/static/js/main.89cf5ac4.chunk.js",
+    "main.js.map": "/frontendSalehub/static/js/main.89cf5ac4.chunk.js.map",
+    "runtime-main.js": "/frontendSalehub/static/js/runtime-main.c404405e.js",
+    "runtime-main.js.map": "/frontendSalehub/static/js/runtime-main.c404405e.js.map",
+    "static/css/2.cd2489ce.chunk.css": "/frontendSalehub/static/css/2.cd2489ce.chunk.css",
+    "static/js/2.43e5587f.chunk.js": "/frontendSalehub/static/js/2.43e5587f.chunk.js",
+    "static/js/2.43e5587f.chunk.js.map": "/frontendSalehub/static/js/2.43e5587f.chunk.js.map",
+    "static/js/3.5fccf15f.chunk.js": "/frontendSalehub/static/js/3.5fccf15f.chunk.js",
+    "static/js/3.5fccf15f.chunk.js.map": "/frontendSalehub/static/js/3.5fccf15f.chunk.js.map",
+    "index.html": "/frontendSalehub/index.html",
+    "static/css/2.cd2489ce.chunk.css.map": "/frontendSalehub/static/css/2.cd2489ce.chunk.css.map",
+    "static/css/main.05c7fc46.chunk.css.map": "/frontendSalehub/static/css/main.05c7fc46.chunk.css.map",
+    "static/js/2.43e5587f.chunk.js.LICENSE.txt": "/frontendSalehub/static/js/2.43e5587f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/frontendSalehub/static/media/bg-breadcrumb_1920x.adc88f6f.jpg",
+    "static/media/styles.css": "/frontendSalehub/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c404405e.js",
+    "static/css/2.cd2489ce.chunk.css",
+    "static/js/2.43e5587f.chunk.js",
+    "static/css/main.05c7fc46.chunk.css",
+    "static/js/main.89cf5ac4.chunk.js"
+  ]
+}
