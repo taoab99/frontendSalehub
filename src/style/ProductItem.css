@@ -1,0 +1,45 @@
+.produc-item {
+    width: 100%;
+}
+.produc-item .card-img {
+    min-height: 250px;
+}
+/* .produc-item .card-img:hover {
+    transform: scale(1.2);
+} */
+.produc-item .card-img-overlay {
+    height: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 25%;
+    transform: translateY(-25%);
+    text-align: center;
+    top: auto;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.produc-item:hover .card-img-overlay {
+    height: auto;
+    padding: 10px;
+}
+.card {
+    border: none;
+}
+.pd-Item {
+    padding: 20px 30px;
+    min-height: 250px;
+}
+.produc-item .card-img-overlay .btn {
+    font-size: 12px;
+    padding: 10px 25px;
+    font-weight: 700;
+}
+.price p:first-child {
+    font-size: 13px;
+    font-weight: 600;
+}
+.price p:last-child {
+    font-size: 13px;
+    font-weight: 700;
+}

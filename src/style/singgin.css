@@ -1,0 +1,47 @@
+.singgin {
+    max-width: 50%;
+    height: auto;
+    margin: auto;
+    padding: 50px;
+}
+.singgin-title {
+    font-size: 18px;
+    font-weight: 700;
+}
+.singgin input {
+    font-size: 13px;
+}
+.singgin button {
+    font-size: 14px;
+    font-weight: 600;
+}
+.forgot-password a,
+p {
+    font-size: 13px;
+}
+.forgot-password a {
+    padding: 0;
+    color: black;
+    font-weight: 200;
+}
+.forgot-password a strong {
+    color: #6aa1da;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 992px) {
+    .singgin {
+        max-width: 70%;
+    }
+}
+@media screen and (max-width: 768px) {
+    .singgin {
+        padding: 50px 0;
+    }
+}
+@media screen and (max-width: 480px) {
+    .singgin {
+        max-width: 100%;
+        padding: 50px 30px;
+    }
+}
